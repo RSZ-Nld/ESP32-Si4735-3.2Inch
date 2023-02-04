@@ -7,9 +7,9 @@ Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
 
-![Photo 22]( hhttps://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Back-Pcb.JPG)
+![Photo 22]( )
 
-![Photo 23]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Front-Pcb.JPG)
+![Photo 23]( )
 
 Works on 9 till 12 V max!! B
 ## Schematic
@@ -41,6 +41,6 @@ https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar
 
 
 Gerbers are here:
-https://github.com/RSZ-Nld/Si4735_Display/blob/master/Gerber.zip
+https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gerber%20V1.1.zip
 
 Video of the radio:  
