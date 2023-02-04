@@ -13,7 +13,7 @@ Mod. V. 5.2a made by me IU4ALH Antonino
 Works on 6 till 8 V max!! But 6V is beter, or you need to cool the LM1117 5V!
 ## Schematic
 Schematic was made by me.
-![Schematic]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/Si4735_ESP32_Radio.JPG)
+![Schematic]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Diagram.JPG)
 ### Partslist
 ![Partslist]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/PartsList.pdf)
 ### Photos
