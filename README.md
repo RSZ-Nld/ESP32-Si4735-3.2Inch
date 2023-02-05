@@ -1,4 +1,4 @@
-SW MW LW and FM Radio  V4.13 
+SW MW LW and FM Radio  V4.11 
 ## About the original project
 This project is based on 
 Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341
@@ -18,7 +18,7 @@ Schematic was made by me.
 ### Partslist
 ![Partslist]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Parts-ESP32%20Dev%20Si4735%20Radio.doc )
 ### Photos
-### “Pcb Front”
+### Pcb Front
 ![Top]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Front-Pcb.JPG)
 ### “Bottom Pcb”
 ![Photo 1]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Back-Pcb.JPG)
