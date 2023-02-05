@@ -16,7 +16,7 @@ Works on 9 till 12 V max!! B
 Schematic was made by me.
 ![Schematic]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Diagram.JPG)
 ### Partslist
-![Partslist]( )
+![Partslist]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Parts-ESP32%20Dev%20Si4735%20Radio.doc )
 ### Photos
 ### “Pcb Front”
 ![Top]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Front-Pcb.JPG)
