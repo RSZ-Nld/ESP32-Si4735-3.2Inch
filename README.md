@@ -20,13 +20,13 @@ Schematic was made by me.
 ### Photos
 ### Pcb Front
 ![Top]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Front-Pcb.JPG)
-### “Bottom Pcb”
+### Bottom Pcb
 ![Photo 1]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Back-Pcb.JPG)
 ### “Top Pcb”
 ![Photo 2]( )
-### “Bottom Pcb Finish”
+### Bottom Pcb Finish
 ![Photo 3]( )
-### “Top Pcb Finish”
+### Top Pcb Finish
 
 Finish:
 
