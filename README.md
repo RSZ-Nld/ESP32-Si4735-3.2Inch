@@ -36,7 +36,7 @@ Flash Program:
 
 How to flash, open flash.bat and enter gives the comm port then enter and it will flash:
 
-https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar
+https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Esp32-V4.13.rar
 
 
 
