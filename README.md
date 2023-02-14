@@ -48,15 +48,11 @@ https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gert-V3.5-Normal.zip
 
 or reverse encoder:
 
-
-
-
-
-
-
+https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gert-V3.5-Reverse.zip
 
 
 Gerbers are here:
-https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gerber%20V1.1.zip
+
+
 
 Video of the radio:  
