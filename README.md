@@ -26,11 +26,7 @@ Diagram ESP32 Si4735 Radio.
 ![Photo 4]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-1.jpg)
 ### Top Pcb Finish
 
-Finish:
 
-![Photo 4]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-1.jpg)
-
-![Photo 5]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-2.jpg)
 
 Flash Program:
 
