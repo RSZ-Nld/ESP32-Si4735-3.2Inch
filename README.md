@@ -44,9 +44,11 @@ https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/ESP32-V4.11-Rev.zip
 
 Or Gert sketch V3.5:
 
-
+https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gert-V3.5-Normal.zip
 
 or reverse encoder:
+
+
 
 
 
