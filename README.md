@@ -7,9 +7,7 @@ Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
 
-![Photo 22]( )
 
-![Photo 23]( )
 
 Works on 9 till 12 V max!! 
 ## Schematic
@@ -55,4 +53,6 @@ Gerbers are here:
 
 
 
-Video of the radio:  
+
+
+
