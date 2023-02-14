@@ -11,7 +11,7 @@ V4.11 made by  IU4ALH Antonino
 
 ![Photo 23]( )
 
-Works on 9 till 12 V max!! B
+Works on 9 till 12 V max!! 
 ## Schematic
 Diagram ESP32 Si4735 Radio.
 ![Schematic]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Diagram.JPG)
