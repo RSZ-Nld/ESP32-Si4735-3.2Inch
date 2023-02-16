@@ -6,6 +6,7 @@ Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2C
 Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
+Works also with Harduino V4.14 beta
 
 
 
@@ -24,6 +25,8 @@ Diagram ESP32 Si4735 Radio.
 ![Photo 5]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-2.jpg)
 ### Bottom Pcb Finish
 ![Photo 4]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-1.jpg)
+### Works with Harduino V4.14 beta
+![Photo 4]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Harduino-4.14-beta.jpg)
 ### Top Pcb Finish
 
 
