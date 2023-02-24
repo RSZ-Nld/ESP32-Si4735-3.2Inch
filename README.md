@@ -59,6 +59,10 @@ Gerbers are here:
 
 https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gerber%20V1.1.zip
 
+and Front Plate
+
+https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gerber%20Front.zip
+
 
 
 
