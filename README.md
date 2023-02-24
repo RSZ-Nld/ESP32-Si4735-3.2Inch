@@ -10,6 +10,8 @@ Works also with Harduino V4.14 beta
 
 
 
+
+
 Works on 9 till 12 V max!! 
 ## Schematic
 Diagram ESP32 Si4735 Radio.
@@ -17,6 +19,9 @@ Diagram ESP32 Si4735 Radio.
 ### Partslist
 ![Partslist]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Parts-ESP32%20Dev%20Si4735%20Radio.doc )
 ### Photos
+![Front plate]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_154817.jpg )
+![Front plate 2](
+
 ### Pcb Front
 ![Top]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Front-Pcb.JPG)
 ### Bottom Pcb
